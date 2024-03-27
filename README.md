@@ -1,5 +1,5 @@
 # Memory Game: Star Wars
-December Automation Team Challenge: Memory Game
+February Automation Team Challenge: Memory Game Star Wars
 
 ![Badge Complete](https://img.shields.io/badge/status-developing-blue)
 ![Badge Release Date](https://img.shields.io/badge/release%20date-february-red)
